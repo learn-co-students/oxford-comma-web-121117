@@ -14,3 +14,5 @@ def oxford_comma(array)
     array.join(" ")
   end
 end
+
+#I forgot about .pop :(
